@@ -2,7 +2,7 @@
 Answer to "Bioinformatics Algorithms" Book Coding Problems
 
 
-* These are the codes that I wrote as Homeworks in "Introduction to Bioinformatics" course at Sharif University of Technology.
+* These are the codes that I wrote as Homework in "Introduction to Bioinformatics" course at Sharif University of Technology.
 
 * Course Instructors: Dr. Ali Sharifi-Zarchi & Dr. Somayyeh Koohi
 
